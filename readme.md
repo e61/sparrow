@@ -5,7 +5,7 @@
 
 
 
-###2015.11.25 - para os componentes html
+###2015.11.25 - para componentes html
 
 - https://github.com/uikit/uikit/blob/master/src/js/core/core.js#L387
 - https://github.com/uikit/uikit/blob/master/src/js/components/autocomplete.js
