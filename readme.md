@@ -3,6 +3,8 @@
 - https://github.com/Khan/aphrodite
 - https://github.com/MicheleBertoli/css-in-js
 - http://postcss.org/
+- https://www.youtube.com/watch?v=j8eBXGPl_5E
+- https://vimeo.com/173122870
 
 ###2016.09.13 - para estrutura
 - https://github.com/RisingStack/nx-framework
