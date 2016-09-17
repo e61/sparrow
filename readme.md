@@ -1,10 +1,10 @@
 
+###2016.09.16 - para componentes html
+- https://github.com/Khan/aphrodite
 
 ###2016.09.13 - para estrutura
 - https://github.com/RisingStack/nx-framework
 - https://github.com/riot/riot
-
-
 
 ###2015.11.25 - para componentes html
 
