@@ -1,6 +1,7 @@
 
 ###2016.09.16 - para componentes html
 - https://github.com/Khan/aphrodite
+- https://github.com/MicheleBertoli/css-in-js
 
 ###2016.09.13 - para estrutura
 - https://github.com/RisingStack/nx-framework
