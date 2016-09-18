@@ -7,8 +7,9 @@
 - https://vimeo.com/173122870
 
 ###2016.09.13 - para estrutura
-- https://github.com/RisingStack/nx-framework
 - https://github.com/riot/riot
+- https://github.com/prateekbh/veronica
+- https://github.com/RisingStack/nx-framework
 
 ###2015.11.25 - para componentes html
 
